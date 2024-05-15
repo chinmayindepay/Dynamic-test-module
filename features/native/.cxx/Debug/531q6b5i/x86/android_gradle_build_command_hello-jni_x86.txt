@@ -1,0 +1,7 @@
+Executable : /Users/chinmay/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/chinmay/Downloads/codelab-android-dynamic-features-master/features/native/.cxx/Debug/531q6b5i/x86
+hello-jni
+jvmArgs : 
+

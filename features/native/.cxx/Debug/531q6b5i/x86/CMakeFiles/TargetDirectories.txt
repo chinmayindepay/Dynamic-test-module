@@ -1,0 +1,3 @@
+/Users/chinmay/Downloads/codelab-android-dynamic-features-master/features/native/.cxx/Debug/531q6b5i/x86/CMakeFiles/rebuild_cache.dir
+/Users/chinmay/Downloads/codelab-android-dynamic-features-master/features/native/.cxx/Debug/531q6b5i/x86/CMakeFiles/edit_cache.dir
+/Users/chinmay/Downloads/codelab-android-dynamic-features-master/features/native/.cxx/Debug/531q6b5i/x86/CMakeFiles/hello-jni.dir

@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/chinmay/Downloads/codelab-android-dynamic-features-master/features/native/.cxx/Debug/531q6b5i/x86'
+[1/2] Building C object CMakeFiles/hello-jni.dir/hello-jni.c.o
+[2/2] Linking C shared library /Users/chinmay/Downloads/codelab-android-dynamic-features-master/features/native/build/intermediates/cxx/Debug/531q6b5i/obj/x86/libhello-jni.so

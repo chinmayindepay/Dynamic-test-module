@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/chinmay/Downloads/codelab-android-dynamic-features-master/features/native/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/chinmay/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/chinmay/Downloads/codelab-android-dynamic-features-master/features/native/.cxx/Debug/531q6b5i/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/chinmay/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/chinmay/Downloads/codelab-android-dynamic-features-master/features/native/.cxx/Debug/531q6b5i/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hello-jni-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/chinmay/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/chinmay/Downloads/codelab-android-dynamic-features-master/features/native/.cxx/Debug/531q6b5i/x86",
+        "hello-jni"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "hello-jni",
+      "output": "/Users/chinmay/Downloads/codelab-android-dynamic-features-master/features/native/build/intermediates/cxx/Debug/531q6b5i/obj/x86/libhello-jni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
